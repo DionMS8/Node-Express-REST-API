@@ -1,0 +1,19 @@
+=====[PROJECT DEPENDENCIES]===========================================================
+
+EXPRESS: THIS IS THE EXPRESS LIBRARY ITSELF
+
+BODY-PARSER: THIS CONVERTS THE BODY OF INCOMING 
+REQUESTS INTO A JSON OBJECT.
+
+CORS: You will use this dependency to configure 
+Express to add headers stating that your API 
+accepts requests coming from other origins. 
+This is known as Cross-Origin Resource Sharing 
+(CORS).
+
+HELMET: This library helps to secure Express 
+APIs by defining various HTTP headers.
+
+MORGAN: THIS LIBRARY ADDS LOGGING CAPABILITIES 
+TO THE EXPRESS APIs.
+
