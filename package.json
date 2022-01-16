@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/DionMS8/Node-Express-REST-API/issues"
   },
-  "homepage": "https://github.com/DionMS8/Node-Express-REST-API#readme"
+  "homepage": "https://github.com/DionMS8/Node-Express-REST-API#readme",
+  "dependencies": {
+    "mongodb": "^4.3.0",
+    "mongodb-memory-server": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
